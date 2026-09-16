@@ -2,9 +2,10 @@
   "addons": [
     {
       "id": "plugin.video.elementum",
-      "name": "Elementum",
+      "name": "Elementum2",
       "urls": {
-        "windows_x64": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/plugin.video.elementum.zip"
+        "windows_x64": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/plugin.video.elementum.zip",
+        "android_arm64": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/plugin.video.elementum.zip"
       },
       "dependencies": [
         {
