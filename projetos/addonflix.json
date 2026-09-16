@@ -2,20 +2,9 @@
   "addons": [
     {
       "id": "plugin.video.elementum",
-      "name": "Elementum",
-      "urls": {
-        "windows_x64": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/plugin.video.elementum.zip",
-        "android_arm64": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/plugin.video.elementum.zip"
-      },
-      "dependencies": [
-        {
-          "id": "script.elementum.burst",
-          "name": "script.elementum.burst",
-          "urls": {
-            "universal": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/script.elementum.burst.zip"
-          }
-        }
-      ]
+      "name": "plugin.video.elementum",
+      "url": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/plugin.video.elementum.zip",
+      "dependencies": []
     }
   ]
 }
