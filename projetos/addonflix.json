@@ -1,8 +1,8 @@
 {
   "addons": [
     {
-      "id": "plugin.video.elementum2",
-      "name": "Elementum Kodi addon",
+      "id": "plugin.video.elementum",
+      "name": "Elementum2 Kodi addon",
       "version": "0.1.114",
       "category": "Vídeos",
       "description": "É um motor de torrents que reproduz vídeos direto no Kodi.Funciona com complementos separados chamados providers (provedores) para buscar links de torrent.Organiza filmes e séries usando dados do TheMovieDB e Trakt.tv.É uma evolução (fork) do antigo complemento Quasar..",
