@@ -1,36 +1,13 @@
 {
   "addons": [
     {
-      "name": "Meu Add-on 3",
+      "name": "Elementum (Windows 64)",
 	  "id": "plugin.video.elementum",
       "url": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/teste2.zip",
-      "version": "1.0.2",
-      "synopsis": "Assista a filmes e séries com a melhor qualidade de streaming diretamente no seu Kodi.",
+      "version": "2.1.115",
+      "synopsis": "É um motor de torrents que reproduz vídeos direto no Kodi.Funciona com complementos separados chamados providers (provedores) para buscar links de torrent.",
       "dependencies": []
-    },
-    {
-      "name": "Add-on com Multi-Dependências (ZIP Único)",
-      "url": "https://meusite.com",
-      "version": "2.1.0",
-      "synopsis": "Este add-on baixa um único arquivo ZIP contendo todas as dependências internas compactadas que o script vai extrair de forma automática.",
-      "dependencies": []
-    },
-    {
-      "name": "Add-on Exemplo (Dependências Remotas Separadas)",
-      "url": "https://meusite.com",
-      "version": "1.0.0",
-      "synopsis": "Modelo tradicional caso você precise baixar módulos separados da web de forma sequencial.",
-      "dependencies": [
-        {
-          "id": "script.module.requests",
-          "name": "Requests Library",
-          "url": "https://meusite.com"
-        },
-        {
-          "id": "script.module.six",
-          "name": "Six Module",
-          "url": "https://meusite.com"
-        }
+    }
       ]
     }
   ]
