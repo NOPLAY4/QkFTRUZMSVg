@@ -7,22 +7,22 @@
       "platforms": {
         "android_32": {
           "version": "3.0.0",
-          "url": "https://githubusercontent.com",
+          "url": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/plugin.video.elementum.zip",
           "dependencies": []
         },
         "android_64": {
           "version": "3.0.0",
-          "url": "https://githubusercontent.com",
+          "url": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/plugin.video.elementum.zip",
           "dependencies": []
         },
         "windows_32": {
           "version": "3.0.0",
-          "url": "https://githubusercontent.com",
+          "url": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/plugin.video.elementum.zip",
           "dependencies": []
         },
         "windows_64": {
           "version": "3.0.0",
-          "url": "https://githubusercontent.com",
+          "url": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/plugin.video.elementum.zip",
           "dependencies": []
         }
       }
@@ -34,7 +34,7 @@
       "platforms": {
         "universal": {
           "version": "1.0.5",
-          "url": "https://githubusercontent.com",
+          "url": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/plugin.video.elementum.zip",
           "dependencies": [
             {
               "id": "script.module.requests",
