@@ -1,53 +1,49 @@
 {
   "addons": [
     {
-      "id": "plugin.video.elementum",
-      "name": "elementum (WINDOWS 64)",
-	  "version": "2.1.115",
-      "url": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/plugin.video.elementum.zip",
-      "dependencies": [
-        {
-          "id": "script.elementum.burst",
-          "name": "script.elementum.burst",
-          "url": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/script.elementum.burst.zip"
+      "name": "AddonFlix Premium Player",
+      "synopsis": "Add-on binário de alto desempenho otimizado por plataforma.",
+      "description": "Este complemento contém módulos compilados especificamente para cada sistema operacional, garantindo aceleração de hardware e reprodução fluida.",
+      "platforms": {
+        "android_32": {
+          "version": "3.0.0",
+          "url": "https://githubusercontent.com",
+          "dependencies": []
         },
-        {
-          "id": "script.module.certifi",
-          "name": "script.module.certifi",
-          "url": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/script.module.certifi.zip"
+        "android_64": {
+          "version": "3.0.0",
+          "url": "https://githubusercontent.com",
+          "dependencies": []
         },
-        {
-          "id": "script.module.chardet",
-          "name": "script.module.chardet",
-		  "version": "20.0.5",
-          "url": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/script.module.chardet.zip"
+        "windows_32": {
+          "version": "3.0.0",
+          "url": "https://githubusercontent.com",
+          "dependencies": []
         },
-        {
-          "id": "script.module.future",
-          "name": "script.module.future",
-          "url": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/script.module.future.zip"
-        },
-        {
-          "id": "script.module.idna",
-          "name": "script.module.idna",
-          "url": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/script.module.idna.zip"
-        },
-        {
-          "id": "script.module.kodi-six",
-          "name": "script.module.kodi-six",
-          "url": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/script.module.kodi-six.zip"
-        },
-        {
-          "id": "script.module.requests.zip",
-          "name": "script.module.requests",
-          "url": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/script.module.requests.zip"
-        },
-        {
-          "id": "script.module.urllib3",
-          "name": "script.module.urllib3",
-          "url": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/script.module.urllib3.zip"
+        "windows_64": {
+          "version": "3.0.0",
+          "url": "https://githubusercontent.com",
+          "dependencies": []
         }
-      ]
+      }
+    },
+    {
+      "name": "AddonFlix Legendas e Utilitários",
+      "synopsis": "Módulo de ferramentas gerais compatível com qualquer dispositivo.",
+      "description": "Como este add-on é feito puramente em Python simples e não possui arquivos binários (.dll ou .so), ele roda na chave universal.",
+      "platforms": {
+        "universal": {
+          "version": "1.0.5",
+          "url": "https://githubusercontent.com",
+          "dependencies": [
+            {
+              "id": "script.module.requests",
+              "name": "Requests",
+              "url": "https://kodi.tv"
+            }
+          ]
+        }
+      }
     }
   ]
 }
