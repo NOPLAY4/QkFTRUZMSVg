@@ -1,21 +1,11 @@
 {
   "addons": [
     {
-      "name": "Elementum",
+      "name": "ADDONS",
       "version": "2.1.115",
       "synopsis": "",
-      "url": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/teste2.zip",
-      "url_windows": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/teste2.zip"
-    },
-	{
-  "addons": [
-    {
-      "name": "teste",
-      "version": "1.0",
-      "synopsis": "",
-      "url": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/addons.zip"
+      "url": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/addons.zip",
+      "url_windows": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/addons.zip"
     }
-  ]
-}
   ]
 }
