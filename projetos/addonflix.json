@@ -2,9 +2,50 @@
   "addons": [
     {
       "id": "plugin.video.elementum",
-      "name": "plugin.video.elementum",
+      "name": "elementum (WINDOWS 64)",
       "url": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/plugin.video.elementum.zip",
-      "dependencies": []
+      "dependencies": [
+        {
+          "id": "script.elementum.burst",
+          "name": "script.elementum.burst",
+          "url": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/script.elementum.burst.zip"
+        },
+        {
+          "id": "script.module.certifi",
+          "name": "script.module.certifi",
+          "url": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/script.module.certifi.zip"
+        },
+        {
+          "id": "script.module.chardet",
+          "name": "script.module.chardet",
+          "url": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/script.module.chardet.zip"
+        },
+        {
+          "id": "script.module.future",
+          "name": "script.module.future",
+          "url": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/script.module.future.zip"
+        },
+        {
+          "id": "script.module.idna",
+          "name": "script.module.idna",
+          "url": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/script.module.idna.zip"
+        },
+        {
+          "id": "script.module.kodi-six",
+          "name": "script.module.kodi-six",
+          "url": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/script.module.kodi-six.zip"
+        },
+        {
+          "id": "script.module.requests.zip",
+          "name": "script.module.requests",
+          "url": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/script.module.requests.zip"
+        },
+        {
+          "id": "script.module.urllib3",
+          "name": "script.module.urllib3",
+          "url": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/script.module.urllib3.zip"
+        }
+      ]
     }
   ]
 }
