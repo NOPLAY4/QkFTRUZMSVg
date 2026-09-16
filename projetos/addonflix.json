@@ -2,38 +2,19 @@
   "addons": [
     {
       "id": "plugin.video.elementum",
-      "name": "Elementum2 Kodi addon",
-      "version": "0.1.114",
-      "category": "Vídeos",
-      "description": "É um motor de torrents que reproduz vídeos direto no Kodi.Funciona com complementos separados chamados providers (provedores) para buscar links de torrent.Organiza filmes e séries usando dados do TheMovieDB e Trakt.tv.É uma evolução (fork) do antigo complemento Quasar..",
-      "icon": "https://iwf1.com/scrapekod/icons/context.elementum.png",
+      "name": "Elementum",
       "urls": {
-        "windows_x64": "https://raw.githubusercontent.com/boxxml/QkFTRUZMSVg/refs/heads/main/projetos/plugin.video.elementum.zip",
-        "android_arm64": "https://exemplo.com",
-        "universal": "https://exemplo.com"
+        "windows_x64": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/plugin.video.elementum.zip"
       },
       "dependencies": [
         {
-          "id": "script.module.requests",
-          "name": "Requests Module",
-          "version": "2.28.1",
+          "id": "script.elementum.burst",
+          "name": "script.elementum.burst",
           "urls": {
-            "universal": "https://raw.githubusercontent.com/boxxml/QkFTRUZMSVg/refs/heads/main/projetos/script.module.requests.zip"
+            "universal": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/script.elementum.burst.zip"
           }
         }
       ]
-    },
-    {
-      "id": "plugin.program.limpeza",
-      "name": "Limpeza do Sistema",
-      "version": "1.0.5",
-      "category": "Programas",
-      "description": "Limpa o cache do Kodi automaticamente, apaga arquivos temporários de atualizações e otimiza o banco de dados para evitar travamentos.",
-      "icon": "https://exemplo.com",
-      "urls": {
-        "universal": "https://exemplo.com"
-      },
-      "dependencies": []
     }
   ]
 }
