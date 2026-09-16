@@ -3,7 +3,7 @@
     {
       "id": "plugin.video.elementum",
       "name": "elementum (WINDOWS 64)",
-	  "version": "0.1.115",
+	  "version": "0.1.117",
       "url": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/plugin.video.elementum.zip",
       "dependencies": [
         {
