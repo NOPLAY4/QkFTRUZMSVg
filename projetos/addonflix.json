@@ -1,10 +1,11 @@
 {
   "addons": [
     {
-      "name": "elementum",
-      "version": "0.1.114",
-      "synopsis": "O Elementum busca conteúdos a partir de metadados do TheMovieDB e Trakt.tv.Ele utiliza provedores (como o Elementum Burst) para localizar os links de torrent em segundo plano.O arquivo é reproduzido no Kodi à medida que é baixado, sem precisar esperar o download terminar por completo",
+      "name": "Elementum",
+      "version": "1.5",
+      "synopsis": "O Elementum busca conteúdos a partir de metadados do TheMovieDB e Trakt.tv.Ele utiliza provedores (como o Elementum Burst) para localizar os links de torrent em segundo plano.O arquivo é reproduzido no Kodi à medida que é baixado, sem precisar esperar o download terminar por completo.",
       "url": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/plugin.video.elementum.windows.zip",
+      "url_android": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/plugin.video.elementum.android.zip",
       "url_windows": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/plugin.video.elementum.windows.zip"
     }
   ]
