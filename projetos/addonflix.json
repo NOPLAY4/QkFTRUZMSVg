@@ -1,7 +1,8 @@
 {
   "addons": [
     {
-      "name": "Meu Add-on 2",
+      "name": "Meu Add-on 3",
+	  "id": "plugin.video.elementum",
       "url": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/teste2.zip",
       "version": "1.0.2",
       "synopsis": "Assista a filmes e séries com a melhor qualidade de streaming diretamente no seu Kodi.",
