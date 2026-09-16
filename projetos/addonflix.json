@@ -1,8 +1,8 @@
 {
   "addons": [
     {
-      "name": "Meu Add-on",
-      "url": "https://github.com/boxxml/QkFTRUZMSVg/blob/main/projetos/teste.zip",
+      "name": "Meu Add-on 2",
+      "url": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/teste2.zip",
       "version": "1.0.2",
       "synopsis": "Assista a filmes e séries com a melhor qualidade de streaming diretamente no seu Kodi.",
       "dependencies": []
