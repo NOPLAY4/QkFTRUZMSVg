@@ -1,12 +1,11 @@
 {
   "addons": [
     {
-      "id": "plugin.video.elementum",
-      "name": "Elementum (windows 64)",
-      "urls": {
-        "universal": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/teste2.zip"
-      },
-      "dependencies": []
+      "name": "Elementum",
+      "version": "2.1.115",
+      "synopsis": "",
+      "url": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/teste2.zip",
+      "url_windows": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/teste2.zip"
     }
   ]
 }
