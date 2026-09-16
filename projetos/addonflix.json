@@ -1,49 +1,12 @@
 {
   "addons": [
     {
-      "name": "AddonFlix Premium Player",
-      "synopsis": "Add-on binário de alto desempenho otimizado por plataforma.",
-      "description": "Este complemento contém módulos compilados especificamente para cada sistema operacional, garantindo aceleração de hardware e reprodução fluida.",
-      "platforms": {
-        "android_32": {
-          "version": "3.0.0",
-          "url": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/plugin.video.elementum.zip",
-          "dependencies": []
-        },
-        "android_64": {
-          "version": "3.0.0",
-          "url": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/plugin.video.elementum.zip",
-          "dependencies": []
-        },
-        "windows_32": {
-          "version": "3.0.0",
-          "url": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/plugin.video.elementum.zip",
-          "dependencies": []
-        },
-        "windows_64": {
-          "version": "3.0.0",
-          "url": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/plugin.video.elementum.zip",
-          "dependencies": []
-        }
-      }
-    },
-    {
-      "name": "AddonFlix Legendas e Utilitários",
-      "synopsis": "Módulo de ferramentas gerais compatível com qualquer dispositivo.",
-      "description": "Como este add-on é feito puramente em Python simples e não possui arquivos binários (.dll ou .so), ele roda na chave universal.",
-      "platforms": {
-        "universal": {
-          "version": "1.0.5",
-          "url": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/plugin.video.elementum.zip",
-          "dependencies": [
-            {
-              "id": "script.module.requests",
-              "name": "Requests",
-              "url": "https://kodi.tv"
-            }
-          ]
-        }
-      }
+      "id": "plugin.video.elementum",
+      "name": "elementum",
+      "urls": {
+        "universal": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/teste.zip"
+      },
+      "dependencies": []
     }
   ]
 }
