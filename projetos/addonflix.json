@@ -1,14 +1,12 @@
 {
   "addons": [
     {
-      "name": "Elementum (Windows 64)",
-	  "id": "plugin.video.elementum",
-      "url": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/teste2.zip",
-      "version": "2.1.115",
-      "synopsis": "É um motor de torrents que reproduz vídeos direto no Kodi.Funciona com complementos separados chamados providers (provedores) para buscar links de torrent.",
+      "id": "plugin.video.elementum",
+      "name": "Elementum (windows 64)",
+      "urls": {
+        "universal": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/teste2.zip"
+      },
       "dependencies": []
-    }
-      ]
     }
   ]
 }
