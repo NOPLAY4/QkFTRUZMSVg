@@ -1,0 +1,90 @@
+[
+  {
+    "titulo": "The Last of Us",
+    "ano": "2023",
+    "genero": "Ação, Drama, Ficção",
+    "nota": "8.8",
+    "classificacao": "16",
+    "sinopse": "Uma visão de um mundo pós-apocalíptico onde os sobreviventes enfrentam infectados mutantes e assassinos implacáveis após uma pandemia devastadora.",
+    "poster": "https://tmdb.org",
+    "fanart": "https://tmdb.org",
+    "temporada": "1",
+    "episodio": "1",
+    "titulo_episodio": "Quando Estiver Perdido na Escuridão",
+    "sinopse_episodio": "Vinte anos após uma pandemia de fungos dizimar a civilização, Joel é contratado para contrabandear a jovem Ellie para fora de uma zona de quarentena opressiva.",
+    "thumb_episodio": "https://tmdb.org",
+    "versoes_disponiveis": [
+      {
+        "label": "Dublado (4K HDR)",
+        "url": "https://meuservidor.com"
+      },
+      {
+        "label": "Legendado (1080p Atmos)",
+        "url": "https://meuservidor.com"
+      }
+    ]
+  },
+  {
+    "titulo": "The Last of Us",
+    "ano": "2023",
+    "genero": "Ação, Drama, Ficção",
+    "nota": "8.8",
+    "classificacao": "16",
+    "sinopse": "Uma visão de um mundo pós-apocalíptico onde os sobreviventes enfrentam infectados mutantes e assassinos implacáveis após uma pandemia devastadora.",
+    "poster": "https://tmdb.org",
+    "fanart": "https://tmdb.org",
+    "temporada": "1",
+    "episodio": "2",
+    "titulo_episodio": "Infectados",
+    "sinopse_episodio": "Joel, Tess e Ellie cruzam as ruínas abandonadas de Boston enquanto tentam escapar de hordas perigosas de infectados do tipo estaladores.",
+    "thumb_episodio": "https://tmdb.org",
+    "versoes_disponiveis": [
+      {
+        "label": "Dublado (1080p)",
+        "url": "https://meuservidor.com"
+      }
+    ]
+  },
+  {
+    "titulo": "The Last of Us",
+    "ano": "2023",
+    "genero": "Ação, Drama, Ficção",
+    "nota": "8.8",
+    "classificacao": "16",
+    "sinopse": "Uma visão de um mundo pós-apocalíptico onde os sobreviventes enfrentam infectados mutantes e assassinos implacáveis após uma pandemia devastadora.",
+    "poster": "https://tmdb.org",
+    "fanart": "https://tmdb.org",
+    "temporada": "2",
+    "episodio": "1",
+    "titulo_episodio": "O Começo do Fim",
+    "sinopse_episodio": "Joel e Ellie tentam se adaptar a uma nova rotina em Jackson, mas os fantasmas do passado começam a ameaçar a paz da comunidade.",
+    "thumb_episodio": "https://tmdb.org",
+    "versoes_disponiveis": [
+      {
+        "label": "Dublado Dual Áudio (1080p)",
+        "url": "https://meuservidor.com"
+      }
+    ]
+  },
+  {
+    "titulo": "Stranger Things",
+    "ano": "2016",
+    "genero": "Ficção Científica, Suspense, Terror",
+    "nota": "8.7",
+    "classificacao": "14",
+    "sinopse": "Quando um garoto desaparece misteriosamente em uma pequena cidade americana, seus amigos descobrem um laboratório secreto, portais para outra dimensão e uma garota com poderes telecinéticos.",
+    "poster": "https://tmdb.org",
+    "fanart": "https://tmdb.org",
+    "temporada": "1",
+    "episodio": "1",
+    "titulo_episodio": "O Desaparecimento de Will Byers",
+    "sinopse_episodio": "No caminho de volta para casa, Will avista algo aterrorizante. Perto dali, um segredo sinistro espreita em um laboratório do governo.",
+    "thumb_episodio": "https://tmdb.org",
+    "versoes_disponiveis": [
+      {
+        "label": "Dublado (1080p)",
+        "url": "magnet:?xt=urn:btih:EXEMPLO_DE_MAGNET_LINK_SE_QUISER_USAR_TORRENT"
+      }
+    ]
+  }
+]
