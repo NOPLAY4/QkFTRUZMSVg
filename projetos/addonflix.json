@@ -14,7 +14,7 @@
 	{
       "name": "Elementum",
       "version": "0.1.114",
-      "synopsis": "O Elementum é um dos add-ons de vídeo mais conhecidos para a plataforma Kodi.A sua principal função (ou \"sinopse\" de funcionamento) é transmitir filmes e séries via torrent em tempo real, eliminando a necessidade de esperar o download completo do arquivo para começar a assistir.",
+      "synopsis": "O Elementum é um dos add-ons de vídeo mais conhecidos para a plataforma Kodi.A sua principal função de funcionamento) é transmitir filmes e séries via torrent em tempo real, eliminando a necessidade de esperar o download completo do arquivo para começar a assistir.",
       "icon": "DefaultAddon.png",
       "url": "https://github.com/elgatito/plugin.video.elementum/releases/download/v0.1.114/plugin.video.elementum-0.1.114.zip",
       "url_windows_64": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/plugin.video.elementum.windows.zip",
