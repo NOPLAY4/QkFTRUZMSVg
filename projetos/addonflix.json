@@ -1,27 +1,15 @@
 {
   "addons": [
     {
-      "name": "Elementum",
-      "version": "1.5",
-      "synopsis": "O Elementum busca conteúdos a partir de metadados do TheMovieDB e Trakt.tv.Ele utiliza provedores (como o Elementum Burst) para localizar os links de torrent em segundo plano.O arquivo é reproduzido no Kodi à medida que é baixado, sem precisar esperar o download terminar por completo.",
-      "url": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/plugin.video.elementum.windows.zip",
-      "url_android": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/plugin.video.elementum.android.zip",
-      "url_windows": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/plugin.video.elementum.windows.zip"
-    },
-    {
-      "name": "f4mTester",
-      "version": "4.2.5",
-      "synopsis": "O f4mtester é um complemento (addon) essencial para o Kodi que serve para reproduzir streams baseados em arquivos f4m (geralmente links de vídeo protegidos ou transmissões ao vivo usadas por outros complementos).",
-      "url": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/addons/plugin.video.f4mTester-windoows.zip",
-      "url_windows": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/addons/plugin.video.f4mTester-windoows.zip"
-    },
-     {
-      "name": "vkkodi.repo",
+      "name": "vkkodi repo",
       "version": "3.33",
       "synopsis": "Repositório Vikings levando os melhores addons a sua familia e aos quatro cantos do Mundo!!!",
+      "icon": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/addons/vkkodi.repo.zip",
       "url": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/addons/vkkodi.repo.zip",
-      "url_android": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/addons/vkkodi.repo.zip",
-      "url_windows": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/addons/vkkodi.repo.zip"
+      "url_windows_64": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/addons/vkkodi.repo.zip",
+      "url_windows_32": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/addons/vkkodi.repo.zip",
+      "url_android_64": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/addons/vkkodi.repo.zip",
+      "url_android_32": "https://github.com/boxxml/QkFTRUZMSVg/raw/refs/heads/main/projetos/addons/vkkodi.repo.zip"
     }
   ]
 }
