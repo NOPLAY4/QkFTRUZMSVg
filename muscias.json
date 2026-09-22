@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Bohemian Rhapsody",
+    "artist": "Queen",
+    "album": "A Night at the Opera",
+    "genre": "Rock, Classic Rock, Opera Rock",
+    "url": "https://soundhelix.com",
+    "thumb": "https://unsplash.com"
+  },
+  {
+    "name": "Blinding Lights",
+    "artist": "The Weeknd",
+    "album": "After Hours",
+    "genre": "Pop, Synthwave, Electronic",
+    "url": "https://soundhelix.com",
+    "thumb": "https://unsplash.com"
+  },
+  {
+    "name": "Shape of You",
+    "artist": "Ed Sheeran",
+    "album": "Divide",
+    "genre": "Pop, Acoustic",
+    "url": "https://soundhelix.com",
+    "thumb": "https://unsplash.com"
+  },
+  {
+    "name": "Another One Bites the Dust",
+    "artist": "Queen",
+    "album": "The Game",
+    "genre": "Rock, Funk Rock, Pop",
+    "url": "https://soundhelix.com",
+    "thumb": "https://unsplash.com"
+  }
+]
