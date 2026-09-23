@@ -15,6 +15,18 @@
     "artist_fanart": "https://cdn-academy.akamaized.net/sscdn/tb/326x326/palcomp3-discografia/1/9/4/9/3987989ce6ee444ea64752c4aa8f367f.jpg"
   },
   {
+        "artist": "Tribo da Periferia",
+        "album": "Híbrido",
+        "name": "RESILIÊNCIA",
+        "year": "2021",
+        "genre": "Hip Hop, Rap",
+        "plays": "9800",
+        "type": "video",
+        "thumb": "https://thriller_video.jpg",
+        "artist_thumb": "https://mj.jpg",
+        "url": "https://youtube.com"
+    },
+  {
     "name": "Fechamento De Sempre",
     "artist": "Tribo da Periferia",
     "album": "Híbrido",
