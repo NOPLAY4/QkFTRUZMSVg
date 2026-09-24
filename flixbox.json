@@ -1,7 +1,4 @@
 {
-  "nome": "Jeon Android",
-  "versao": "2.0.0",
-  "url_apk": "https://mirrors.kodi.tv/releases/android/arm/kodi-21.3-Omega-armeabi-v7a.apk?https=1",
-  "obrigatorio": false,
-  "notas_versao": "Melhorias de desempenho e novos canais adicionados."
+  "version": "21.1",
+  "url": "https://mirrors.kodi.tv/releases/android/arm/kodi-21.3-Omega-armeabi-v7a.apk?https=1"
 }
